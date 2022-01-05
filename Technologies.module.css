@@ -1,0 +1,14 @@
+
+.prokrutkaClass {
+    overflow-y: scroll;
+    height: 250px;
+}
+.technologiesClass {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color:rgb(22, 231, 74);
+    font-size: 60px;
+    background-color:lightcoral;
+    font-family:fantasy;
+}

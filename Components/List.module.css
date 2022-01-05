@@ -1,0 +1,17 @@
+
+.prokrutkaClass {
+    overflow-y: scroll;
+    height: 300px;
+}
+.listClass {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color:rgb(52, 69, 226);
+    font-size: 40px;
+    background-color:goldenrod;
+    font-family:fantasy;
+}
+
+
+
